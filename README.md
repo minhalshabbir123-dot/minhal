@@ -1,1 +1,1 @@
-# minhal
+https://github.com/minhalshabbir123-dot/minhal.git
